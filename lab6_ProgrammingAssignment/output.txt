@@ -1,0 +1,11 @@
+Print är i decimal tal:  
+2
+12
+18
+4
+4
+32
+Print är i hexdecimala tal:  
+0x20
+Print är i binära tal: 
+0000000000100000

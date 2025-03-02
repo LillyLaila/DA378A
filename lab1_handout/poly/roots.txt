@@ -1,0 +1,17 @@
+Polynom coeffs are : a = 1, b = 2, c = 1
+One real root: -1
+eval y(x) at root = 0
+
+Polynom coeffs are : a = 2, b = -1, c = -1
+Two real roots: 1, -0.5
+eval y(x) at root1 = 0
+eval y(x) at root2 = 0
+
+Polynom coeffs are : a = 1, b = 1, c = 1
+No real roots.
+
+Polynom coeffs are : a = 1, b = 2, c = -2
+Two real roots: 0.732051, -2.73205
+eval y(x) at root1 = -1.07689e-07
+eval y(x) at root2 = 3.05264e-07
+

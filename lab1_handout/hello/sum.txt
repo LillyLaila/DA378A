@@ -1,0 +1,6 @@
+Ange tal (avsluta med Ctrl-D):
+Read number: 10
+Read number: 20
+Read number: 30
+Read number: 40
+Sum is: 100
